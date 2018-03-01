@@ -9,9 +9,6 @@ First install xTensor and xTensor-blas:
 *[xtensor](https://github.com/QuantStack/xtensor)
 *[xtensor-blas](https://github.com/QuantStack/xtensor-blas)
 
-*xTensor
-*xTensor-blas
-
 Then clone this respository and do:
 
 ```
